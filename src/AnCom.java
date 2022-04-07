@@ -5,6 +5,8 @@ to animate shapes
 * @author  Jeffrey Betty
 * @version 1.0
 * @since   2021-04-02 
+* @implements ActionListener 
+* #param Timer; int frame; Graphics; 
 */
 import java.awt.Color;
 import java.awt.Dimension;
